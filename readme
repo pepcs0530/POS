@@ -1,0 +1,9 @@
+backend npm i nodemon
+backend npm run dev
+
+frontend npm i
+frontend npm start
+
+workshop3 install list
+    Django
+    djangorestframework

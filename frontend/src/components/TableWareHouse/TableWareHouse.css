@@ -1,0 +1,9 @@
+.divtable {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.product_table {
+    text-align: center;
+    width: 90%;
+}
